@@ -1,6 +1,4 @@
-
-// Creating an HTML page
-import {WebView} from "./deps";
+import {WebView} from "./deps.ts";
 
 const SERVER_URL = 'https://sgk-news.pl';
 
